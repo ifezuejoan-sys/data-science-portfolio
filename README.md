@@ -1,6 +1,5 @@
-# Data Science & Analytics Portfolio
+# Data Science Portfolio
 
-**Exploring data. Discovering insights. Supporting better business decisions.**
 
 Welcome to my Data Science and Analytics Portfolio! This repository showcases my hands-on projects in data analysis, financial risk, insurance, sales performance, customer behaviour, and machine learning.
 
